@@ -15,6 +15,7 @@ The project is currently in a proof-of-concept phase:
 
 Initial project goals are:
 
-1. Improve the Corpus engine to allow specification of customized `lexicon`.
-2. Possibly implement `SQL Parser` to extract database entity infomration from `*.sql` DDL using `Pushdown Automata Finite State Machine`.
-3. Improve parameterization for better control over Co-HITS
+1. Author wiki, citations.
+2. Improve the Corpus engine to allow specification of customized `lexicon`.
+3. Possibly implement `SQL Parser` to extract database entity infomration from `*.sql` DDL using `Pushdown Automata Finite State Machine`.
+4. Improve parameterization for better control over Co-HITS
